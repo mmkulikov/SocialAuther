@@ -1,7 +1,7 @@
 {
   "name": "mmkulikov/socialauther",
   "description": "Authentication via Social Networks",
-  "minimum-stability": "stable",
+  "stability": "stable",
   "version": "1.0.1",
   "license": "GPL",
   "homepage": "https://github.com/mmkulikov/SocialAuther",
