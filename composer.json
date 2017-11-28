@@ -1,0 +1,31 @@
+{
+  "name": "mmkulikov/socialauther",
+  "description": "Authentication via Social Networks",
+  "minimum-stability": "stable",
+  "version": "0.0.1",
+  "license": "GPL",
+  "homepage": "https://github.com/mmkulikov/SocialAuther",
+  "type": "project",
+  "keywords": ["auth", "social network"],
+
+  "authors": [
+    {
+      "name": "Stanislav Protasevich",
+      "email": "stanislav.protasevich@stanislasgroup.com"
+    },
+    {
+      "name": "Mikhail Kulikov (https://github.com/mmkulikov)",
+      "email": "mmkulikov@yandex.ru"
+    }
+  ],
+
+  "autoload": {
+    "psr-4": {
+      "SocialAuth\\": "lib"
+    }
+  },
+
+  "require": {
+    "php": ">=5.6.0"
+  }
+}
